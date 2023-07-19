@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>vidéo &#8211; Ti Kréol Kont Gro Profitèr !</title>
+	<atom:link href="https://www.tikreol.re/tag/video/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.tikreol.re/</link>
+	<description>Blog Réyoné pou in kritik sosyal, èk larogans antikolonyal</description>
+	<lastBuildDate>Mon, 02 Mar 2015 16:41:03 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>[Vidéo] Pensées africaines de libération, partie 1 (Saïd Bouamama)</title>
+		<link>https://www.tikreol.re/video-pensees-africaines-de-liberation-partie-1-said-bouamama/</link>
+		
+		<dc:creator><![CDATA[Ti Kreol]]></dc:creator>
+		<pubDate>Mon, 02 Mar 2015 16:31:43 +0000</pubDate>
+				<category><![CDATA[Vidéo]]></category>
+		<category><![CDATA[FUIQP]]></category>
+		<category><![CDATA[résistance africaine]]></category>
+		<category><![CDATA[saïd bouamama]]></category>
+		<category><![CDATA[vidéo]]></category>
+		<guid isPermaLink="false">https://www.tikreol.re/?p=639</guid>
+
+					<description><![CDATA["Des premières braises aux premières armes, une résistance à l'esclavage et à la colonisation continue"]]></description>
+										<content:encoded><![CDATA[<p><strong>« Des premières braises aux premières armes, une résistance à l&rsquo;esclavage et à la colonisation continue »</strong></p>
+<p>Par Saïd Bouamama (FUIQP &#8211; Front Uni des Immigrations et des Quartiers Populaires)</p>
+<p><iframe src="https://www.youtube.com/embed/nP2pSjpzXV8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
