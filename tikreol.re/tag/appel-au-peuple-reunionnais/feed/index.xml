@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>appel au peuple réunionnais &#8211; Ti Kréol Kont Gro Profitèr !</title>
+	<atom:link href="https://www.tikreol.re/tag/appel-au-peuple-reunionnais/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.tikreol.re/</link>
+	<description>Blog Réyoné pou in kritik sosyal, èk larogans antikolonyal</description>
+	<lastBuildDate>Thu, 30 Apr 2015 09:04:01 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Appel au peuple réunionnais</title>
+		<link>https://www.tikreol.re/appel-au-peuple-reunionnais/</link>
+		
+		<dc:creator><![CDATA[Ti Kreol]]></dc:creator>
+		<pubDate>Thu, 12 Mar 2015 15:09:41 +0000</pubDate>
+				<category><![CDATA[Kozman]]></category>
+		<category><![CDATA[apèl]]></category>
+		<category><![CDATA[appel]]></category>
+		<category><![CDATA[appel au peuple réunionnais]]></category>
+		<guid isPermaLink="false">https://www.tikreol.re/?p=659</guid>
+
+					<description><![CDATA["Nous, Réunionnais et Réunionnaises, lançons un appel à la réflexion et à l'action pour l'avenir de la Réunion."]]></description>
+										<content:encoded><![CDATA[<h2>Extrait de l&rsquo;appel :</h2>
+<h3>Une urgence sociale !</h3>
+<p style="text-align: justify;">Le constat de notre situation est alarmant : 1 jeune sur 2 au chômage, 116 000 illettrés (INSEE 2011), la moitié de la population sous le seuil de pauvreté, des inégalités de plus en plus grandes&#8230; Une fracture sociale qui explose parfois en révoltes urbaines comme la première en 1991 (« émeutes du Chaudron ») et la dernière datant de 2012. Ces révoltes témoignent d&rsquo;un profond malaise dans une partie de la jeunesse réunionnaise, un malaise à la fois social et identitaire, face à une société post-coloniale qui n&rsquo;a pas encore entièrement soigné les blessures de son passé. Comment soigner ces blessures, touchant une partie des Réunionnais au sein d&rsquo;une société profondément inégalitaire ? Comment en finir avec cet héritage d&rsquo;esprit colonialiste d&rsquo;un côté, et d&rsquo;esprit colonisé de l&rsquo;autre ? [&#8230;]</p>
+<p style="text-align: justify;"><strong>Lire le texte complet :<a href="http://www.lapel.re/" target="_blank"> http://www.lapel.re/</a></strong></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

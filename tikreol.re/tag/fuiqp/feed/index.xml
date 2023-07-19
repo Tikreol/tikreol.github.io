@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>FUIQP &#8211; Ti Kréol Kont Gro Profitèr !</title>
+	<atom:link href="https://www.tikreol.re/tag/fuiqp/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.tikreol.re/</link>
+	<description>Blog Réyoné pou in kritik sosyal, èk larogans antikolonyal</description>
+	<lastBuildDate>Sat, 02 May 2015 17:46:06 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>[Vidéo] Pensées africaines de libération, partie 2 : Aimé Césaire</title>
+		<link>https://www.tikreol.re/video-pensees-africaines-de-liberation-partie-2-aime-cesaire/</link>
+		
+		<dc:creator><![CDATA[Ti Kreol]]></dc:creator>
+		<pubDate>Sat, 02 May 2015 17:46:06 +0000</pubDate>
+				<category><![CDATA[Analiz]]></category>
+		<category><![CDATA[Aimé Césaire]]></category>
+		<category><![CDATA[FUIQP]]></category>
+		<category><![CDATA[saïd bouamama]]></category>
+		<guid isPermaLink="false">https://www.tikreol.re/?p=682</guid>
+
+					<description><![CDATA[Vidéo n°2 de la formation du FUIQP – Front Uni des Immigrations et des Quartiers Populaires), sur Aimé Césaire. (Voir la première vidéo) Par Saïd Bouamama. Lire aussi le texte complet du livre de Aimé Césaire : Discours sur le colonialisme]]></description>
+										<content:encoded><![CDATA[<p>Vidéo n°2 de la formation du FUIQP – Front Uni des Immigrations et des Quartiers Populaires), sur Aimé Césaire. (<a href="https://www.tikreol.re/video-pensees-africaines-de-liberation-partie-1-said-bouamama/" target="_blank">Voir la première vidéo</a>)<br />
+Par Saïd Bouamama.</p>
+<p><a href="https://www.tikreol.re/aime-cesaire-discours-sur-le-colonialisme-texte-integral/" target="_blank">Lire aussi le texte complet du livre de Aimé Césaire : Discours sur le colonialisme</a></p>
+<p><iframe src="https://www.youtube.com/embed/xUy3lHxQJyY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[Vidéo] Pensées africaines de libération, partie 1 (Saïd Bouamama)</title>
+		<link>https://www.tikreol.re/video-pensees-africaines-de-liberation-partie-1-said-bouamama/</link>
+		
+		<dc:creator><![CDATA[Ti Kreol]]></dc:creator>
+		<pubDate>Mon, 02 Mar 2015 16:31:43 +0000</pubDate>
+				<category><![CDATA[Vidéo]]></category>
+		<category><![CDATA[FUIQP]]></category>
+		<category><![CDATA[résistance africaine]]></category>
+		<category><![CDATA[saïd bouamama]]></category>
+		<category><![CDATA[vidéo]]></category>
+		<guid isPermaLink="false">https://www.tikreol.re/?p=639</guid>
+
+					<description><![CDATA["Des premières braises aux premières armes, une résistance à l'esclavage et à la colonisation continue"]]></description>
+										<content:encoded><![CDATA[<p><strong>« Des premières braises aux premières armes, une résistance à l&rsquo;esclavage et à la colonisation continue »</strong></p>
+<p>Par Saïd Bouamama (FUIQP &#8211; Front Uni des Immigrations et des Quartiers Populaires)</p>
+<p><iframe src="https://www.youtube.com/embed/nP2pSjpzXV8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
